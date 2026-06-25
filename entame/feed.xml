@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>エンタメ投資ニュース</title>
+    <link>https://tmin999.github.io/podcast/entame/feed.xml</link>
+    <description>エンタメ業界のニュースを、株式投資のインプリケーション視点でお届けします。</description>
+    <atom:link href="https://tmin999.github.io/podcast/entame/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 25 Jun 2026 06:29:37 +0000</lastBuildDate>
+    <itunes:author>Auto Podcast</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>エンタメ業界のニュースを、株式投資のインプリケーション視点でお届けします。</itunes:summary>
+    <item>
+      <title>エンタメ投資ニュース 2026年6月25日</title>
+      <description>2026年6月25日配信。エンタメ業界の注目ニュースを株式投資の観点で解説します。</description>
+      <guid isPermaLink="false">https://tmin999.github.io/podcast/entame/audio/20260625_1457.mp3</guid>
+      <enclosure url="https://tmin999.github.io/podcast/entame/audio/20260625_1457.mp3" length="4528128" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jun 2026 14:57:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
