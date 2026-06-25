@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>商社投資ニュース</title>
+    <link>https://tmin999.github.io/podcast/shosha/feed.xml</link>
+    <description>総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
+    <atom:link href="https://tmin999.github.io/podcast/shosha/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 25 Jun 2026 21:27:20 +0000</lastBuildDate>
+    <itunes:author>Auto Podcast</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</itunes:summary>
+    <item>
+      <title>商社投資ニュース 2026年6月26日</title>
+      <description>2026年6月26日配信。エンタメ業界の注目ニュースを株式投資の観点で解説します。</description>
+      <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260626_0625.mp3</guid>
+      <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260626_0625.mp3" length="7052160" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 06:25:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
