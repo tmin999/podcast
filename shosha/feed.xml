@@ -8,42 +8,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 21:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 21:19:58 +0000</lastBuildDate>
     <itunes:author>Auto Podcast</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</itunes:summary>
     <item>
+      <title>商社投資ニュース 2026年7月27日</title>
+      <description>2026年7月27日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
+      <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260727_0618.mp3</guid>
+      <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260727_0618.mp3" length="6248448" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 06:18:00 +0900</pubDate>
+    </item>
+    <item>
       <title>商社投資ニュース 2026年7月20日</title>
-      <description>2026年7月20日配信。エンタメ業界の注目ニュースを株式投資の観点で解説します。</description>
+      <description>2026年7月20日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
       <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260720_0609.mp3</guid>
       <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260720_0609.mp3" length="7663872" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 06:09:00 +0900</pubDate>
     </item>
     <item>
       <title>商社投資ニュース 2026年7月13日</title>
-      <description>2026年7月13日配信。エンタメ業界の注目ニュースを株式投資の観点で解説します。</description>
+      <description>2026年7月13日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
       <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260713_0606.mp3</guid>
       <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260713_0606.mp3" length="6089088" type="audio/mpeg"/>
       <pubDate>Mon, 13 Jul 2026 06:06:00 +0900</pubDate>
     </item>
     <item>
       <title>商社投資ニュース 2026年7月6日</title>
-      <description>2026年7月6日配信。エンタメ業界の注目ニュースを株式投資の観点で解説します。</description>
+      <description>2026年7月6日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
       <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260706_0607.mp3</guid>
       <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260706_0607.mp3" length="6359424" type="audio/mpeg"/>
       <pubDate>Mon, 06 Jul 2026 06:07:00 +0900</pubDate>
     </item>
     <item>
       <title>商社投資ニュース 2026年6月29日</title>
-      <description>2026年6月29日配信。エンタメ業界の注目ニュースを株式投資の観点で解説します。</description>
+      <description>2026年6月29日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
       <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260629_0607.mp3</guid>
       <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260629_0607.mp3" length="8881536" type="audio/mpeg"/>
       <pubDate>Mon, 29 Jun 2026 06:07:00 +0900</pubDate>
     </item>
     <item>
       <title>商社投資ニュース 2026年6月26日</title>
-      <description>2026年6月26日配信。エンタメ業界の注目ニュースを株式投資の観点で解説します。</description>
+      <description>2026年6月26日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
       <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260626_0625.mp3</guid>
       <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260626_0625.mp3" length="7052160" type="audio/mpeg"/>
       <pubDate>Fri, 26 Jun 2026 06:25:00 +0900</pubDate>
