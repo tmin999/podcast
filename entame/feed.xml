@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:04:34 +0000</lastBuildDate>
     <itunes:author>Auto Podcast</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>エンタメ業界のニュースを、株式投資のインプリケーション視点でお届けします。</itunes:summary>
+    <item>
+      <title>エンタメ投資ニュース 2026年8月14日</title>
+      <description>2026年8月14日配信。エンタメ業界のニュースを、株式投資のインプリケーション視点でお届けします。</description>
+      <guid isPermaLink="false">https://tmin999.github.io/podcast/entame/audio/20260814_0603.mp3</guid>
+      <enclosure url="https://tmin999.github.io/podcast/entame/audio/20260814_0603.mp3" length="4760064" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Aug 2026 06:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>エンタメ投資ニュース 2026年8月13日</title>
       <description>2026年8月13日配信。エンタメ業界のニュースを、株式投資のインプリケーション視点でお届けします。</description>
@@ -215,13 +222,6 @@
       <guid isPermaLink="false">https://tmin999.github.io/podcast/entame/audio/20260709_0602.mp3</guid>
       <enclosure url="https://tmin999.github.io/podcast/entame/audio/20260709_0602.mp3" length="4191360" type="audio/mpeg"/>
       <pubDate>Thu, 09 Jul 2026 06:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エンタメ投資ニュース 2026年7月8日</title>
-      <description>2026年7月8日配信。エンタメ業界のニュースを、株式投資のインプリケーション視点でお届けします。</description>
-      <guid isPermaLink="false">https://tmin999.github.io/podcast/entame/audio/20260708_0603.mp3</guid>
-      <enclosure url="https://tmin999.github.io/podcast/entame/audio/20260708_0603.mp3" length="4804224" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Jul 2026 06:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
