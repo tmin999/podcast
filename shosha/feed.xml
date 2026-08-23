@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 21:16:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:17:53 +0000</lastBuildDate>
     <itunes:author>Auto Podcast</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</itunes:summary>
+    <item>
+      <title>商社投資ニュース 2026年8月24日</title>
+      <description>2026年8月24日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
+      <guid isPermaLink="false">https://tmin999.github.io/podcast/shosha/audio/20260824_0616.mp3</guid>
+      <enclosure url="https://tmin999.github.io/podcast/shosha/audio/20260824_0616.mp3" length="6971904" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 06:16:00 +0900</pubDate>
+    </item>
     <item>
       <title>商社投資ニュース 2026年8月17日</title>
       <description>2026年8月17日配信。総合商社に関する1週間のニュースを、株式投資の視点で毎週月曜にまとめてお届けします。</description>
